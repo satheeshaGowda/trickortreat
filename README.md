@@ -9,3 +9,6 @@ https://www.ibm.com/support/knowledgecenter/en/SSFKSJ_7.1.0/com.ibm.mq.doc/sy106
 
 # REST - Best Practices
 https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
+
+# SSH - How does it work?
+https://www.linkedin.com/pulse/understanding-ssh-encryption-connection-process-robert-althof/
