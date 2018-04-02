@@ -18,9 +18,6 @@ https://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html
 https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference
 
 # CAP Theorem
-<pre>
-http://robertgreiner.com/2014/08/cap-theorem-revisited/ 
-https://medium.com/@ravindraprasad/cap-theorem-simplified-28499a67eab4
-http://searchdatamanagement.techtarget.com/feature/Key-criteria-for-choosing-different-types-of-NoSQL-databases
-
-</pre>
+http://robertgreiner.com/2014/08/cap-theorem-revisited/  <br>
+https://medium.com/@ravindraprasad/cap-theorem-simplified-28499a67eab4 <br>
+http://searchdatamanagement.techtarget.com/feature/Key-criteria-for-choosing-different-types-of-NoSQL-databases <br>
