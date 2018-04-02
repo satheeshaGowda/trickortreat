@@ -21,3 +21,6 @@ https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-l
 http://robertgreiner.com/2014/08/cap-theorem-revisited/  <br>
 https://medium.com/@ravindraprasad/cap-theorem-simplified-28499a67eab4 <br>
 http://searchdatamanagement.techtarget.com/feature/Key-criteria-for-choosing-different-types-of-NoSQL-databases <br>
+
+# HTTP Status Code - Refresher
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418 <br>
