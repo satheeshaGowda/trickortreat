@@ -14,7 +14,7 @@ https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
 https://www.linkedin.com/pulse/understanding-ssh-encryption-connection-process-robert-althof/
 
 # Regex - Refresher
-https://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html
+https://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html <br>
 https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference
 
 # CAP Theorem
