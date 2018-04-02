@@ -19,3 +19,4 @@ https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-l
 
 # CAP Theorem
 http://robertgreiner.com/2014/08/cap-theorem-revisited/
+https://medium.com/@ravindraprasad/cap-theorem-simplified-28499a67eab4
