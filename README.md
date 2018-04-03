@@ -24,3 +24,11 @@ http://searchdatamanagement.techtarget.com/feature/Key-criteria-for-choosing-dif
 
 # HTTP Status Code - Refresher
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418 <br>
+
+
+# Text Processing -linux commands
+https://www.tldp.org/LDP/abs/html/textproc.html <br>
+
+
+# Math Refresher
+http://www.mathwords.com/ </br>
