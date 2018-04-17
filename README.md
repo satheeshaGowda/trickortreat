@@ -32,3 +32,6 @@ https://www.tldp.org/LDP/abs/html/index.html
 
 # Math Refresher
 http://www.mathwords.com/ </br>
+
+# What happens when CLI command executed?
+https://medium.com/meatandmachines/what-really-happens-when-you-type-ls-l-in-the-shell-a8914950fd73
